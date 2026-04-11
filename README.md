@@ -23,11 +23,7 @@
   - **Proximal neural networks for Gaussian denoising** — IEEE TIP, 2024                                                                            
   - **Discrete Mumford-Shah with Ambrosio-Tortorelli penalization** — IEEE SPL, 2022                                                                
                                                                                                                                                     
-  ## GitHub Stats                                                                                                                                   
-                                                                                                                                                    
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HoangTrieuVy&show_icons=true&theme=dark&hide_border=true)                     
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HoangTrieuVy&layout=compact&theme=dark&hide_border=true)          
-                                                                                                                                                    
+                                                                                                                                         
   ## Connect                                                                                                                                        
                                                                                                                                                     
   [![Website](https://img.shields.io/badge/Website-hoangtrieuvy.github.io-blue?style=flat&logo=github)](https://hoangtrieuvy.github.io)             

@@ -22,6 +22,5 @@
                                                                                                                                                     
   [![Website](https://img.shields.io/badge/Website-hoangtrieuvy.github.io-blue?style=flat&logo=github)](https://hoangtrieuvy.github.io)             
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-hoangtrieuvyle-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/hoangtrieuvyle/)  
-  [![Google Scholar](https://img.shields.io/badge/Scholar-Publications-4285F4?style=flat&logo=google-scholar)](https://scholar.google.com/citations?
-  user=JBA9s6YAAAAJ&hl=fr)                                                                                                                          
+  [![Google Scholar](https://img.shields.io/badge/Scholar-Publications-4285F4?style=flat&logo=google-scholar)]                                      
   [![Email](https://img.shields.io/badge/Email-lehoangtrieuvy15@gmail.com-D14836?style=flat&logo=gmail)](mailto:lehoangtrieuvy15@gmail.com)  

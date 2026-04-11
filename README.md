@@ -1,6 +1,6 @@
 # Hi, I'm Trieu Vy 👋                                                                                                                             
                                                                                                                                                     
-  **Principal AI R&D Engineer** at [BeinkDream](https://www.beinkdream.com) · Lyon, France                                                          
+  **Principal AI R&D Engineer** at [BeinkDream](https://www.beinkdream.com) · Paris, France                                                          
                                                                                                                                                     
   PhD in Signal & Image Processing (ENS Lyon, 2023) — specializing in mathematical optimization, deep learning, and computational imaging.          
                                                                                                                                                     
@@ -9,7 +9,7 @@
   ## About Me                                                                                                                                       
 
   - 🔬 Working on generative AI and structured neural architectures                                                                                 
-  - 🧮 Passionate about agentic system                                                                             
+  - 🧮 Passionate about physics, AI agentic system and otpimized neural networks.                                                                            
   - 🎓 Former ML/Optimization instructor at ENS Lyon & EPITA                                                                                        
                                                                                                                                                     
   ## Research Interests                                                                                                                             

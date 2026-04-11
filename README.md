@@ -9,20 +9,14 @@
   ## About Me                                                                                                                                       
 
   - 🔬 Working on generative AI and structured neural architectures                                                                                 
-  - 🧮 Passionate about unfolded neural networks and inverse problems                                                                               
-  - 📖 Thesis: *Variations on the Mumford-Shah functional for interface detection in degraded images*                                               
+  - 🧮 Passionate about agentic system                                                                             
   - 🎓 Former ML/Optimization instructor at ENS Lyon & EPITA                                                                                        
                                                                                                                                                     
   ## Research Interests                                                                                                                             
                                                                                                                                                     
   `Mathematical Optimization` · `Deep Unfolding` · `Image Processing` · `Computer Vision` · `Proximal Neural Networks` · `Generative AI`            
                                                                                                                                                     
-  ## Selected Publications                                                                                                                          
-                                                                                                                                                    
-  - **Unfolded discrete Mumford-Shah functional** — EUSIPCO 2025                                                                                    
-  - **Proximal neural networks for Gaussian denoising** — IEEE TIP, 2024                                                                            
-  - **Discrete Mumford-Shah with Ambrosio-Tortorelli penalization** — IEEE SPL, 2022                                                                
-                                                                                                                                                    
+                                                                                                                                     
                                                                                                                                          
   ## Connect                                                                                                                                        
                                                                                                                                                     

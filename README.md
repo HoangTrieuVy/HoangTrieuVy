@@ -1,16 +1,21 @@
-## Hi there 👋
-
-<!--
-**HoangTrieuVy/HoangTrieuVy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi, I'm Trieu Vy 👋                                                                                                                             
+                                                                                                                                                   
+  <!-- One-liner about yourself -->
+  Software developer passionate about [your focus].                                                                                                 
+                                                                                                                                                    
+  ## About Me                                                                                                                                       
+                                                                                                                                                    
+  - 🔭 Currently working on ...                                                                                                                     
+  - 🌱 Learning ...                                                                                                                                 
+  - 💬 Ask me about ...                                                                                                                             
+  - 📫 Reach me at: your@email.com                                                                                                                  
+                                                                                                                                                    
+  ## Stats                                                                                                                                          
+                                                                                                                                                    
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HoangTrieuVy&show_icons=true&theme=dark)                                      
+                                                                                                                                                    
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HoangTrieuVy&layout=compact&theme=dark)                           
+                                                                                                                                                    
+  ## Connect                                                                                                                                        
+                                                                                                                                                    
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](your-linkedin-url)                 

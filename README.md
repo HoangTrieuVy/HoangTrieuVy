@@ -2,19 +2,18 @@
                                                                                                                                                     
   **Principal AI R&D Engineer** at [BeinkDream](https://www.beinkdream.com) · Paris, France                                                          
                                                                                                                                                     
-  PhD in Signal & Image Processing (ENS Lyon, 2023) — specializing in mathematical optimization, deep learning, and computational imaging.          
-                                                                                                                                                    
+I like physics, AI and football !                                                                                                                                                    
   ---                                                                                                                                               
                                                                                                                                                     
   ## About Me                                                                                                                                       
 
   - 🔬 Working on generative AI and structured neural architectures                                                                                 
-  - 🧮 Passionate about physics, AI agentic system and otpimized neural networks.                                                                            
-  - 🎓 Former ML/Optimization instructor at ENS Lyon & EPITA                                                                                        
+  - 🧮 Passionate about physics, AI system and otpimized neural networks.                                                                            
+  - 🎓 Former ML/Optimization instructor at ENS Lyon                                                                                    
                                                                                                                                                     
   ## Research Interests                                                                                                                             
                                                                                                                                                     
-  `Mathematical Optimization` · `Deep Unfolding` · `Image Processing` · `Computer Vision` · `Proximal Neural Networks` · `Generative AI`            
+  `Physics` · `AI` · `Image Processing`             
                                                                                                                                                     
                                                                                                                                      
                                                                                                                                          

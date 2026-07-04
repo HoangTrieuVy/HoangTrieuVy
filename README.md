@@ -1,6 +1,6 @@
 # Hi, I'm Trieu Vy 👋                                                                                                                             
                                                                                                                                                     
-  **Principal AI R&D Engineer** at [BeinkDream](https://www.beink.fr) · Paris, France                                                          
+  **Principal AI R&D Engineer** at [Beink Dream](https://www.beink.fr) · Paris, France                                                          
                                                                                                                                                     
 I like physics, AI and football !                                                                                                                                                    
   ---                                                                                                                                               

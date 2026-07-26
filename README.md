@@ -10,7 +10,7 @@ I like physics, AI, 3D modelling, robots and football!
 
 - 🧠 I architect **end-to-end agentic AI systems** at Beink Dream — teaching generative models to think in **objects, not pixels**: one persistent scene representation that stays coherent from 2D sketch to 3D to manufacturable CAD.
 - ✏️ Building a **CAD agent assistant**: image / text / context → CAD.
-- 🤖 I also build robots, and train **RL locomotion policies** to make them immitate human.
+- 🤖 I also build robots, and train **RL locomotion policies** to make them imitate humans.
 - 🧮 Passionate about physics, AI systems and optimized neural networks.
 - 🎓 Former ML / Optimization instructor at ENS Lyon.
 

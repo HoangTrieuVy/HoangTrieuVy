@@ -2,7 +2,7 @@
 
 **Principal AI R&D Engineer** at [Beink Dream](https://www.beink.fr) · Paris, France
 
-I like physics, AI, robots and football!
+I like physics, AI, 3D modelling, robots and football!
 
 ---
 

@@ -19,13 +19,13 @@ I like physics, AI, 3D modelling, robots and football!
 - 🎨 **Generative + structured AI** — flow-based image generation and structured neural architectures for multi-modal scene understanding (2D · 3D · CAD).
 - 🛠 **Text/image → CAD agent** — an agentic assistant that turns intent and context into editable CAD.
 - 🤖 **Custom robots** — designing and prototyping my own robots.
-- 🦿 **Humanoid locomotion** — training custom RL locomotion policies for the Booster T1 humanoid.
+- 🦿 **Reinforcement Learning for Robotics** 
 
 ## Research Interests
 
 `Generative AI` · `Agentic Systems` · `Structured Neural Architectures` · `Multi-modal 2D/3D/CAD`
 
-`Reinforcement Learning for Robotics` · `Humanoid & Legged Locomotion` · `Sim-to-Real Transfer`
+`Reinforcement Learning for Robotics` · `Humanoid` · `Sim-to-Real Transfer`
 
 `Embedded Systems & Motor Control` · `Robot Design & Prototyping` · `Physics` · `Image Processing`
 

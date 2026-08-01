@@ -16,7 +16,7 @@ I like physics, AI, 3D modelling, robots and football!
 ## Current Projects
 
 - 🎨 **Generative + structured AI** — multi-modal scene understanding (2D · 3D · CAD).
-- 🛠 **Text/image → CAD agent** — an agentic assistant that turns intent and context into editable CAD.
+- 🛠 **Text/image → CAD agent** — an assistant that turns intent and context into editable CAD.
 - 🤖 **Custom robots** — designing and prototyping my own robots.
 - 🦿 **Reinforcement Learning for Robotics** 
 

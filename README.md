@@ -9,21 +9,20 @@ I like physics, AI, 3D modelling, robots and football!
 ## About Me
 
 - 🧠 I architect **end-to-end agentic AI systems** at Beink Dream — teaching generative models to think in **objects, not pixels**: one persistent scene representation that stays coherent from 2D sketch to 3D to manufacturable CAD.
-- ✏️ Building a **CAD agent assistant**: image / text / context → CAD.
-- 🤖 I also build robots, and train **RL policies** to make them imitate humans.
-- 🧮 Passionate about physics, AI systems and optimized neural networks.
+- 🤖 In my freetime, I also love building robots, and do some research about **RL** to make them imitate humans.
+- 🧮 Passionate about physics, AI systems.
 - 🎓 Former ML / Optimization instructor at ENS Lyon.
 
 ## Current Projects
 
-- 🎨 **Generative + structured AI** — flow-based image generation and structured neural architectures for multi-modal scene understanding (2D · 3D · CAD).
+- 🎨 **Generative + structured AI** — multi-modal scene understanding (2D · 3D · CAD).
 - 🛠 **Text/image → CAD agent** — an agentic assistant that turns intent and context into editable CAD.
 - 🤖 **Custom robots** — designing and prototyping my own robots.
 - 🦿 **Reinforcement Learning for Robotics** 
 
 ## Research Interests
 
-`Generative AI` · `Agentic Systems` · `Structured Neural Architectures` · `Multi-modal 2D/3D/CAD`
+`Generative AI` · `Agentic Systems` · `Multi-modal 2D/3D/CAD`
 
 `Reinforcement Learning for Robotics` · `Humanoid` · `Sim-to-Real Transfer`
 
